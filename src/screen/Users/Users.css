@@ -1,0 +1,13 @@
+.userDiv{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    justify-content: center;
+    align-items: flex-start;
+}
+.logoutDiv{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 30px 0 0;
+}
